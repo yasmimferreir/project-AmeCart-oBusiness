@@ -1,0 +1,73 @@
+.container-global {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container-register {
+    display: inline-block;
+    position: absolute;
+    width: 48%;
+    height: 36rem;
+    padding: 5rem 5rem;
+    margin-top: -85rem;
+    margin-left: 26.5rem;
+}
+
+.vetor {
+    position: absolute;
+    max-width: 56rem;
+}
+
+.container--div {
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    margin-top: 20rem;
+
+}
+
+.title-div {
+    position: absolute;
+    width: 24rem;
+    height: 3rem;
+    bottom: 10rem;
+    left: 23rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 3.6rem;
+    color: #FFFFFF;
+}
+
+.container--div .paragrafh--div {
+    display: flex;
+    position: absolute;
+    width: 34rem;
+    height: 10rem;
+    bottom: -10rem;
+    padding: 5rem 3rem;
+    margin-left: 9rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.7rem;
+    line-height: 2rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.container-cart img {
+    display: flex;
+    position: absolute;
+    max-width: 30rem;
+    height: 30rem;
+    margin-top: 9rem;
+    margin-left: 20rem;
+}
+
+
+/* Media */
+
+
+@media (max-width:) {}
