@@ -4,7 +4,7 @@
 
 Projeto focado nas habilidades de Front-end, utilização no Front-end biblioteca ReactJs, Design Figma, 
 totalmente desenvolvido do zero a aplicação, consiste em uma landing page responsive, Cartão Ame Business 
-desenvolvido para coloca em prática os conhecimentos e experiência no Front-end ReactJs. 
+desenvolvido para coloca em prática os conhecimentos e experiência no Front-end ReactJs, projeto em andamento para Mobile.
 
 <br>
 <hr>
@@ -13,11 +13,8 @@ desenvolvido para coloca em prática os conhecimentos e experiência no Front-en
 <img src="https://user-images.githubusercontent.com/97356148/206808694-524925a3-b0f8-4b18-b497-bfdae75690b9.png" width="640px" >
 > Imagem projeto
  <br>
-> 🚀 deploy da aplicação: 
+> 🚀 deploy da aplicação: https://ame-cartaobuniness.netlify.app/
 <br>
-
-
-
 
 
 <br>
