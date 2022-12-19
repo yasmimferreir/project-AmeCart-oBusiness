@@ -12,6 +12,7 @@
   width: 48%;
   height: 36rem;
   padding: 5rem 5rem;
+
 }
 
 .title {
@@ -124,12 +125,36 @@ input {
 
 /* Media */
 
+@media (max-width:1814px) {
 
-@media (max-width:1660) {
   .register--container {
     display: inline-block;
-    width: 48%;
-    height: 36rem;
-    padding: 2rem 2rem;
+    width: 40%;
+    height: 32rem;
+    padding: 4rem 4rem;
   }
+
+  .title {
+    height: 8rem;
+    width: 18rem;
+    margin: -1.7rem 0 0.7rem;
+  }
+
+  .vetorthree {
+    position: relative;
+    max-width: 20%;
+    margin-top: 12.4rem;
+    margin-right: 1rem;
+  }
+
+  .paragrafh-img {
+    position: relative;
+    width: 10rem;
+    height: 2rem;
+    margin-top: 12rem;
+    right: 0rem;
+  }
+
+
+
 }
